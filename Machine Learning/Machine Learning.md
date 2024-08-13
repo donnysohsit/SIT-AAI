@@ -1,5 +1,14 @@
 # Machine Learning
 ![Logo](imgs/Header.jpg)
+
+## Reference Materials
+### Reading Materials
++ Introduction to Machine Learning [Read](https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-machine-learning?source=sl_frs_nav_playlist_video_clicked)
++ Geek4Geeks Machine Learning [Read](https://www.geeksforgeeks.org/machine-learning/)
+### Watching Materials
++ Supervised Learning vs Unsupervised Learning [Watch](https://www.youtube.com/watch?v=W01tIRP_Rqs)
++ K-means clustering [Watch](https://www.youtube.com/watch?v=4b5d3muPQmA)
+
 ## Definitions to know beforehand
 
 Activation Function: An activation function is a mathematical operation applied to each node (or neuron) in a neural network. It
@@ -20,6 +29,10 @@ outputs.
 
 ## Google Collab Examples
 ### Neural Network Examples
-+ Perceptron model [Perceptron Model](https://colab.research.google.com/drive/1yuTOJS6QuggzjspFUyTLwPNOxP8AJVOi?usp=sharing#scrollTo=PtPAQ1jGpyBM)
-+ Single layer perceptron model [Single Layer Perceptron Model](https://colab.research.google.com/drive/1gEbZ3JRHlSoeMqIZ9ckFak5KbWU4sSlb?usp=sharing#scrollTo=PtPAQ1jGpyBM)
-+ Multi layer perceptron model [Multi Layer Perceptron Model](https://colab.research.google.com/drive/1FnmGiz4ZFOghLZGGNuGivXFAwjWR45-8?usp=sharing)
++ Perceptron model [>>>](https://colab.research.google.com/drive/1yuTOJS6QuggzjspFUyTLwPNOxP8AJVOi?usp=sharing#scrollTo=PtPAQ1jGpyBM)
++ Single layer perceptron model [>>>](https://colab.research.google.com/drive/1gEbZ3JRHlSoeMqIZ9ckFak5KbWU4sSlb?usp=sharing#scrollTo=PtPAQ1jGpyBM)
++ Multi layer perceptron model [>>>](https://colab.research.google.com/drive/1FnmGiz4ZFOghLZGGNuGivXFAwjWR45-8?usp=sharing)
+
+## Acknowledgements
++ GeeksforGeeks. (2024, June 20). Machine Learning tutorial. GeeksforGeeks. https://www.geeksforgeeks.org/machine-learning/
++ Priyadharshini. (2024, March 27). What is machine learning and how does it work? Simplilearn.com. https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-machine-learning?source=sl_frs_nav_playlist_video_clicked
